@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ea56219bc500609e","x":-320,"y":-240,"width":250,"height":60,"type":"text","text":"HALLO DIT IS EEN TEST\n"},
+		{"id":"e5143f8cb034721f","x":-320,"y":-120,"width":250,"height":60,"type":"text","text":"JA HALLO, DIT OOK\n"}
+	],
+	"edges":[]
+}

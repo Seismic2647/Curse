@@ -1,0 +1,5 @@
+---
+public: true
+---
+
+![[mishka.webp]]

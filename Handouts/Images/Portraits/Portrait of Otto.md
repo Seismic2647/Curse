@@ -1,0 +1,5 @@
+---
+public: true
+---
+
+![[otto.jpeg]]
